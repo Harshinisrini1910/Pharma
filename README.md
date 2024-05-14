@@ -109,7 +109,7 @@ Publish the website in the LocalHost.
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; 2024 PharmaCompany-S Harshini.All rights reserved.</p>
+    <p>&copy; 2024 PharmaCompany-S Harshini.All rights reserved</p>
   </footer>
 
   <!-- Bootstrap JS -->
@@ -214,7 +214,7 @@ Publish the website in the LocalHost.
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; 2024 PharmaCompany-S Harshini. All rights reserved.</p>
+    <p>&copy; 2024 PharmaCompany-S Harshini. All rights reserved</p>
   </footer>
 
   <!-- Bootstrap JS -->
@@ -326,7 +326,7 @@ Publish the website in the LocalHost.
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; 2024 PharmaCompany-S Harshini. All rights reserved.</p>
+    <p>&copy; 2024 PharmaCompany-S Harshini. All rights reserved</p>
   </footer>
 
   <!-- Bootstrap JS -->
@@ -432,7 +432,7 @@ Publish the website in the LocalHost.
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; 2024 PharmaCompany-S Harshini. All rights reserved.</p>
+    <p>&copy; 2024 PharmaCompany-S Harshini. All rights reserved</p>
   </footer>
 
   <!-- Bootstrap JS -->
@@ -444,10 +444,12 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![Alt text](1st.png)
-![Alt text](2nd.png)
-![Alt text](3rd.png)
-![Alt text](4th.png)
+![1st ](https://github.com/Harshinisrini1910/Pharma/assets/161415847/d6fe5fb5-af1c-40b1-8d16-714e354d4e73)
+![2nd ](https://github.com/Harshinisrini1910/Pharma/assets/161415847/b2fc81af-f862-4f9b-a628-ce1b0366cdf1)
+![3rd ](https://github.com/Harshinisrini1910/Pharma/assets/161415847/0dd87f0c-d152-4196-b27e-0cda33f5843c)
+
+![4th ](https://github.com/Harshinisrini1910/Pharma/assets/161415847/c0c3d04d-984a-4654-a409-635ec181d153)
+
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
 
